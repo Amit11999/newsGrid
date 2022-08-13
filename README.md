@@ -12,7 +12,7 @@
  
  
 ### To check the webste live , in action , click on the link below 
-[Newsgrid Website](https://laughing-johnson-744c37.netlify.app/)
+[Newsgrid Website](https://news-grid-latest-news.netlify.app/)
 
 
 ## Note :
